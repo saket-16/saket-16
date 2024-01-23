@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saket-16
 - 👀 I’m interested in software development and sports
-- 🌱 I’m currently learning data structures and algorithmns
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects in the field of software development
 - 📫 How to reach me/ you can reach me on my email saketsingh.sjv@gmail.com
 
